@@ -2,13 +2,7 @@
 
 Hello. I'm a kyunghee University student. I am looking forward to make my own project in github. 
 
-<a href="ttps://instagram.com/jong_stone_ph?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D">
+<a href="https://instagram.com/jong_stone_ph">
     <img 
-        src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&link=ttps://instagram.com/jong_stone_ph
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-    
-<a href="https://instagram.com/fivepxint">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
+        src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&link=https://instagram.com/jong_stone_ph/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
