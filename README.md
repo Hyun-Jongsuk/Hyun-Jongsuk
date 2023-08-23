@@ -5,7 +5,8 @@ Hello. I'm a kyunghee University student. I am looking forward to make my own pr
 <a href="ttps://instagram.com/jong_stone_ph?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D">
     <img 
         src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&link=ttps://instagram.com/jong_stone_ph
-logoColor=white"/>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
     
 <a href="https://instagram.com/fivepxint">
     <img 
