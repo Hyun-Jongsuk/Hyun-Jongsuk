@@ -7,6 +7,10 @@ Hello. I'm a kyunghee University student. I am looking forward to make my own pr
         src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&link=https://instagram.com/jong_stone_ph/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
+# studying
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymca1122)](https://solved.ac/ymca1122/)
+
 # Github status
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-Jongsuk&show_icons=true&theme=radical)
